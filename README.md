@@ -43,21 +43,6 @@ I am proficient in both front-end and back-end development, and I enjoy working 
 ## 🌟 Projects & Contributions
 
 ### Featured Projects
-1. **[Project Name](https://github.com/kinberlin/project-name)**
-   - Description: A brief description of the project and its purpose.
-   - Technologies: List of main technologies used.
-   - Highlights: Key features or achievements.
-
-2. **[Another Project](https://github.com/kinberlin/another-project)**
-   - Description: A brief description of the project and its purpose.
-   - Technologies: List of main technologies used.
-   - Highlights: Key features or achievements.
-
-### Open Source Contributions
-- **[Contribution Name](https://github.com/opensource/repo)**
-  - Description: A brief description of your contribution to the project.
-  - Impact: How your contribution improved the project.
-
 ## 📈 GitHub Stats
 
 ![Adiel Drystan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kinberlin&show_icons=true&theme=radical)
