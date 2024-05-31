@@ -52,7 +52,7 @@ I am proficient in both front-end and back-end development, and I enjoy working 
 ## ⏰ WakaTime Stats
 
 <!--START_SECTION:waka-->
-https://wakatime.com/badge/user/1adc261b-a208-4352-8522-179af6ec520a.svg
+![WakaTime](https://wakatime.com/badge/user/1adc261b-a208-4352-8522-179af6ec520a.svg)
 <!--END_SECTION:waka-->
 
 ## 📫 How to Reach Me
