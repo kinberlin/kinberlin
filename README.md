@@ -63,7 +63,7 @@ I am proficient in both front-end and back-end development, and I enjoy working 
 
 ## 💡 Fun Fact
 
-Did you know? I started programming when I was [age], and since then, I have been continuously learning and evolving in the field of software development. When I'm not coding, you might find me [hobby or interest].
+Did you know? I started programming when I was 16 years old, and since then, I have been continuously learning and evolving in the field of software development. When I'm not coding, you might find me watching series, animes and playing video games.
 
 ---
 
